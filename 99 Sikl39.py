@@ -1,8 +1,10 @@
 from math import * 
+
 x=int(input('x='))
 y=int(input('y='))
 c=int(input('c='))
 d=int(input('d='))
+
 s=0
 p=1
 s1=0
