@@ -52,7 +52,6 @@ python solutions/001.py
 ```
 algo-ubtuit-solutions/
 │
-├── solutions/
 │   ├── 001.py
 │   ├── 002.py
 │   ├── ...
